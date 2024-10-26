@@ -41,7 +41,7 @@ This is an advanced text-to-image vector search application that enables multime
    ```plaintext
    YOUTUBE_API_KEY=<Your-YouTube-API-Key>
    ```
-   
+   (If at all you want to use your own API key, replace it in the main code in the file text-to-image.py)
 
 4. **Run the Application**
    Launch the Gradio-based web interface:
