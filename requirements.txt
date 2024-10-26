@@ -101,6 +101,7 @@ pyproject_hooks==1.2.0
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-multipart==0.0.12
+pytube==15.0.0
 pytz==2024.2
 PyYAML==6.0.2
 regex==2024.9.11
